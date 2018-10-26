@@ -1,4 +1,4 @@
-# 1.Fundamentals-of-Computing
+# Fundamentals-of-Computing Specialization by RiceUniversity
 http://www.codeskulptor.org/#user44_O8tE8sZWydTAasr_0.py
 ![image](https://user-images.githubusercontent.com/35569652/47545685-89e1dc80-d928-11e8-9ad3-b3775dddfb91.png)
 
