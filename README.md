@@ -1,3 +1,4 @@
-1.StopWatch
-2.Pong
-3.
+학습 순서
+1.intro-to-programming
+
+2.principle-of-computing
